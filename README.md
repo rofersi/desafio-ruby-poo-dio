@@ -1,2 +1,5 @@
 # desafio-ruby-poo-dio
-Criar um programa na linguagem Ruby utilizando as ferramentas aprendidas em POO
+Criar um código em três arquivos que “conversem” entre si
+como aprendido nas aulas . Você simulará o ato de escolher e
+comprar um produto em um mercado.
+
